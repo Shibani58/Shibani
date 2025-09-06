@@ -28,10 +28,10 @@ My mission:
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibani-purbey/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/Shibani58/)  
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/Shibani58)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shibanipurbey@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn)](https://www.linkedin.com/in/shibani-purbey/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white&label=LeetCode)](https://leetcode.com/Shibani58/)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&label=Dev.to)](https://dev.to/Shibani58)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email)](mailto:shibanipurbey@gmail.com)
 
 ---
 
@@ -39,3 +39,7 @@ My mission:
 
 > "Coding is my superpower!" 🦸‍♀️  
 ![Coding Superhero GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
+---
+
+✨ **Let's code, build, and make an impact together!**
